@@ -32,6 +32,7 @@ exports.login = async (req, res) => {
 }
 
 exports.logout = (res, req) => {
+    req.app.username=""
     res.send({
         code: 200,
         msg: 'logout',

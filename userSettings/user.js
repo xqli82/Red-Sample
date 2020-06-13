@@ -2,7 +2,8 @@ module.exports = {
     whiteList:[
         '/login',
         '/favicon.ico',
-        '/404'
+        '/404',
+        '/logout'
     ],
     account: [
         {

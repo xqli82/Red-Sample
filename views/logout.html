@@ -1,0 +1,60 @@
+<!--index.art-->
+{{extend './base.html'}}
+
+{{block 'title'}}{{title}}{{/block}}
+
+{{block 'head'}}
+<link rel="stylesheet" href="/static/css/iconfont.css">
+<link rel="stylesheet" href="/static/css/login.css">
+{{/block}}
+
+{{block 'content'}}
+<div class="content login" id='app'>
+    <div class="title">
+        <h1>Red-Sample IOT Platform</h1>
+        <h3 style="text-align: center;">注销页面</h3>
+    </div>
+
+
+    <div class="login-form">
+        {{if (username)}}
+        <div style="text-align:center">
+            当前登陆用户:{{username}}
+        </div>
+        
+        <div class="btn-warning" style="width: 100%;text-align: center; cursor: pointer;" onclick="logout()">
+            注销
+        </div>
+        {{else}}
+        <div style="text-align: center;">
+            还未登录
+            <div>
+                <a href="/login">返回登录页面</a>
+            </div>
+        </div>
+
+        {{/if}}
+    </div>
+    <div class="logo">
+        <a href="http://www.v5w.com"><img src="/static/img/logo.png" alt="威武网" class="v5w"></a>
+    </div>
+
+</div>
+{{/block}}
+{{block 'js'}}
+<script src="/static/node_modules/axios/dist/axios.min.js"></script>
+<script src="/static/node_modules/js-cookie/src/js.cookie.js"></script>
+<script>
+    function logout() {
+        Cookies.set('token', '')
+        axios({
+            method: 'post',
+            url: '/logout',
+            data: {
+
+            }
+        })
+        window.location.href = '/login'
+    }
+</script>
+{{/block}}
