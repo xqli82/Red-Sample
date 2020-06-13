@@ -8,6 +8,7 @@ Red-Sample项目意义:基于Node-Red技术,快速构建一个简单好用的物
 
 Red-Things:https://github.com/xqli82/Red-Things
 
+
 # Init project
 > npm install
 
@@ -23,6 +24,7 @@ npm install
 # Login
 
 config account in file(在下面文件中配置账户信息):
+
 useSettings -> user.js
 
 Default account(默认账户):
