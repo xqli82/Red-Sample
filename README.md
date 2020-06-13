@@ -26,6 +26,7 @@ config account in file:
 useSettings -> user.js
 
 Default account:
+
 `admin:` 
 + username:admin
 + password:123
