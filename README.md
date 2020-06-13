@@ -22,16 +22,16 @@ npm install
 
 # Login
 
-config account in file:
+config account in file(在下面文件中配置账户信息):
 useSettings -> user.js
 
-Default account:
+Default account(默认账户):
 
-`admin:` 
+`admin(管理员账户):` 
 + username:admin
 + password:123
 
-`client:`
+`client(普通账户):`
 + username:user
 + password:public
 
@@ -42,6 +42,15 @@ input url in browser: localhost:3000/login
 
 you will see the login page
 
+![login](https://www.v5w.com/wp-content/uploads/2020/06/1592055052-dd69e0a8e9f8b02.png)
+
 # My website(威武网)
 
+官网地址:
+
 https://www.v5w.com
+
+详细介绍:
+
+https://www.v5w.com/red-things/459.html
+
