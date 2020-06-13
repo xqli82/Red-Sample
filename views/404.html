@@ -1,0 +1,35 @@
+{{extend './base.html'}}
+
+{{block 'content'}}
+<div class='err'>
+    <p>404 error</p>
+    <p>can find the page</p>
+    <div>
+        <a href="/red" class="btn">返回主界面</a>
+        <a href="/login" class="btn">重新登录</a>
+    </div>
+    
+</div>
+<style>
+    .err{
+        width: 500px;
+        height: 200px;
+        background: #fff;
+        border-radius: 2px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 40px;
+        font-size: 20px;
+        position:absolute;
+        left:50%;
+        top:50%;
+        transform: translateX(-50%) translateY(-50%);
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    }
+</style>
+<script src="/static/node_modules/js-cookie/src/js.cookie.js"></script>
+<script>
+    
+</script>
+{{/block}}
