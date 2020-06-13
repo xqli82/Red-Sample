@@ -1,3 +1,5 @@
-module.exports={
-    
+const testFun = require('./testFun')
+
+module.exports = {
+    testFun
 }
