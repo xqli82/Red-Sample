@@ -5,6 +5,4 @@ $(document).ready(function () {
 
     const headerElement = document.querySelector("#red-ui-header")
     headerElement.appendChild(newDiv)
-    console.log(newDiv)
-    console.log(headerElement)
 })
