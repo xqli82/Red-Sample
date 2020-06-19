@@ -1,0 +1,15 @@
+#red-ui-header span.red-ui-header-logo img {
+    height: 30px !important;
+}
+.my-logout{
+    line-height: 40px;
+    float: right;
+    background: #000;
+    margin-right: 20px;
+}
+.my-logout a{
+    vertical-align:middle;
+    font-size: 16px;
+    color: #ccc !important;
+    padding: 0px 10px;
+}
