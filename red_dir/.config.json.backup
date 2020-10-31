@@ -13,7 +13,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\common\\20-inject.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\common\\20-inject.js"
     },
     "debug": {
      "name": "debug",
@@ -23,7 +23,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\common\\21-debug.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\common\\21-debug.js"
     },
     "complete": {
      "name": "complete",
@@ -33,7 +33,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\common\\24-complete.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\common\\24-complete.js"
     },
     "catch": {
      "name": "catch",
@@ -43,7 +43,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\common\\25-catch.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\common\\25-catch.js"
     },
     "status": {
      "name": "status",
@@ -53,7 +53,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\common\\25-status.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\common\\25-status.js"
     },
     "link": {
      "name": "link",
@@ -64,7 +64,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\common\\60-link.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\common\\60-link.js"
     },
     "comment": {
      "name": "comment",
@@ -74,7 +74,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\common\\90-comment.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\common\\90-comment.js"
     },
     "unknown": {
      "name": "unknown",
@@ -84,7 +84,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\common\\98-unknown.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\common\\98-unknown.js"
     },
     "function": {
      "name": "function",
@@ -94,7 +94,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\function\\10-function.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\function\\10-function.js"
     },
     "switch": {
      "name": "switch",
@@ -104,7 +104,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\function\\10-switch.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\function\\10-switch.js"
     },
     "change": {
      "name": "change",
@@ -114,7 +114,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\function\\15-change.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\function\\15-change.js"
     },
     "range": {
      "name": "range",
@@ -124,7 +124,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\function\\16-range.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\function\\16-range.js"
     },
     "template": {
      "name": "template",
@@ -134,7 +134,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\function\\80-template.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\function\\80-template.js"
     },
     "delay": {
      "name": "delay",
@@ -144,7 +144,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\function\\89-delay.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\function\\89-delay.js"
     },
     "trigger": {
      "name": "trigger",
@@ -154,7 +154,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\function\\89-trigger.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\function\\89-trigger.js"
     },
     "exec": {
      "name": "exec",
@@ -164,7 +164,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\function\\90-exec.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\function\\90-exec.js"
     },
     "tls": {
      "name": "tls",
@@ -174,7 +174,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\network\\05-tls.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\network\\05-tls.js"
     },
     "httpproxy": {
      "name": "httpproxy",
@@ -184,7 +184,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\network\\06-httpproxy.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\network\\06-httpproxy.js"
     },
     "mqtt": {
      "name": "mqtt",
@@ -196,7 +196,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\network\\10-mqtt.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\network\\10-mqtt.js"
     },
     "httpin": {
      "name": "httpin",
@@ -207,7 +207,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\network\\21-httpin.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\network\\21-httpin.js"
     },
     "httprequest": {
      "name": "httprequest",
@@ -217,7 +217,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\network\\21-httprequest.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\network\\21-httprequest.js"
     },
     "websocket": {
      "name": "websocket",
@@ -230,7 +230,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\network\\22-websocket.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\network\\22-websocket.js"
     },
     "tcpin": {
      "name": "tcpin",
@@ -242,7 +242,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\network\\31-tcpin.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\network\\31-tcpin.js"
     },
     "udp": {
      "name": "udp",
@@ -253,7 +253,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\network\\32-udp.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\network\\32-udp.js"
     },
     "CSV": {
      "name": "CSV",
@@ -263,7 +263,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\parsers\\70-CSV.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\parsers\\70-CSV.js"
     },
     "HTML": {
      "name": "HTML",
@@ -273,7 +273,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\parsers\\70-HTML.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\parsers\\70-HTML.js"
     },
     "JSON": {
      "name": "JSON",
@@ -283,7 +283,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\parsers\\70-JSON.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\parsers\\70-JSON.js"
     },
     "XML": {
      "name": "XML",
@@ -293,7 +293,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\parsers\\70-XML.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\parsers\\70-XML.js"
     },
     "YAML": {
      "name": "YAML",
@@ -303,7 +303,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\parsers\\70-YAML.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\parsers\\70-YAML.js"
     },
     "split": {
      "name": "split",
@@ -314,7 +314,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\sequence\\17-split.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\sequence\\17-split.js"
     },
     "sort": {
      "name": "sort",
@@ -324,7 +324,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\sequence\\18-sort.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\sequence\\18-sort.js"
     },
     "batch": {
      "name": "batch",
@@ -334,7 +334,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\sequence\\19-batch.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\sequence\\19-batch.js"
     },
     "file": {
      "name": "file",
@@ -345,7 +345,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\storage\\10-file.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\storage\\10-file.js"
     },
     "watch": {
      "name": "watch",
@@ -355,7 +355,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "D:\\git\\Red-Sample\\node_modules\\@node-red\\nodes\\core\\storage\\23-watch.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\@node-red\\nodes\\core\\storage\\23-watch.js"
     }
    }
   },
@@ -372,7 +372,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-node-rbe",
-     "file": "D:\\git\\Red-Sample\\node_modules\\node-red-node-rbe\\rbe.js"
+     "file": "D:\\git-source\\red-sample\\node_modules\\node-red-node-rbe\\rbe.js"
     }
    }
   },
@@ -389,238 +389,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-node-tail",
-     "file": "D:\\git\\Red-Sample\\node_modules\\node-red-node-tail\\28-tail.js"
-    }
-   }
-  },
-  "node-red-dashboard": {
-   "name": "node-red-dashboard",
-   "version": "2.22.1",
-   "local": true,
-   "nodes": {
-    "ui_base": {
-     "name": "ui_base",
-     "types": [
-      "ui_base"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_base.js"
-    },
-    "ui_button": {
-     "name": "ui_button",
-     "types": [
-      "ui_button"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_button.js"
-    },
-    "ui_dropdown": {
-     "name": "ui_dropdown",
-     "types": [
-      "ui_dropdown"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_dropdown.js"
-    },
-    "ui_switch": {
-     "name": "ui_switch",
-     "types": [
-      "ui_switch"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_switch.js"
-    },
-    "ui_slider": {
-     "name": "ui_slider",
-     "types": [
-      "ui_slider"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_slider.js"
-    },
-    "ui_numeric": {
-     "name": "ui_numeric",
-     "types": [
-      "ui_numeric"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_numeric.js"
-    },
-    "ui_text_input": {
-     "name": "ui_text_input",
-     "types": [
-      "ui_text_input"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_text_input.js"
-    },
-    "ui_date_picker": {
-     "name": "ui_date_picker",
-     "types": [
-      "ui_date_picker"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_date_picker.js"
-    },
-    "ui_colour_picker": {
-     "name": "ui_colour_picker",
-     "types": [
-      "ui_colour_picker"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_colour_picker.js"
-    },
-    "ui_form": {
-     "name": "ui_form",
-     "types": [
-      "ui_form"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_form.js"
-    },
-    "ui_text": {
-     "name": "ui_text",
-     "types": [
-      "ui_text"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_text.js"
-    },
-    "ui_gauge": {
-     "name": "ui_gauge",
-     "types": [
-      "ui_gauge"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_gauge.js"
-    },
-    "ui_chart": {
-     "name": "ui_chart",
-     "types": [
-      "ui_chart"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_chart.js"
-    },
-    "ui_audio": {
-     "name": "ui_audio",
-     "types": [
-      "ui_audio"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_audio.js"
-    },
-    "ui_toast": {
-     "name": "ui_toast",
-     "types": [
-      "ui_toast"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_toast.js"
-    },
-    "ui_ui_control": {
-     "name": "ui_ui_control",
-     "types": [
-      "ui_ui_control"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_ui_control.js"
-    },
-    "ui_template": {
-     "name": "ui_template",
-     "types": [
-      "ui_template"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_template.js"
-    },
-    "ui_link": {
-     "name": "ui_link",
-     "types": [
-      "ui_link"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_link.js"
-    },
-    "ui_tab": {
-     "name": "ui_tab",
-     "types": [
-      "ui_tab"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_tab.js"
-    },
-    "ui_group": {
-     "name": "ui_group",
-     "types": [
-      "ui_group"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_group.js"
-    },
-    "ui_spacer": {
-     "name": "ui_spacer",
-     "types": [
-      "ui_spacer"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-dashboard",
-     "file": "D:\\git\\Red-Sample\\red_dir\\node_modules\\node-red-dashboard\\nodes\\ui_spacer.js"
-    }
-   }
-  }
- },
- "users": {
-  "_": {
-   "editor": {
-    "view": {
-     "view-show-grid": true,
-     "view-snap-grid": true,
-     "view-grid-size": 20,
-     "view-node-status": true,
-     "view-node-show-label": true,
-     "view-show-tips": true
+     "file": "D:\\git-source\\red-sample\\node_modules\\node-red-node-tail\\28-tail.js"
     }
    }
   }

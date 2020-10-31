@@ -9,6 +9,7 @@ module.exports = {
     ui: { path: '/ui' },
     functionGlobalContext: redFunction,    // enables global context
     credentialSecret: "fdsfrrrwttafdsffdsfdsf",
+    flowFile:path.join(userDir,"flows_main.json"),
     editorTheme: {
         page: {
             title: 'v5w.com',
