@@ -4,8 +4,8 @@ const userSettings = require('../../userSettings/user')
 
 exports.login = async (req, res) => {
     try {
-        let username = req.body.username
-        let password = req.body.password
+        let username = req.body.username || ""
+        let password = req.body.password || ""
 
         if (userSettings.account.some(item => {
             return item.username === username && item.password === password
